@@ -1,0 +1,150 @@
+{
+    "movie": [
+      
+            {
+                "id":0,
+                "movieName": "无问西东",
+                "num": 2.5,
+                "img": " http://img7.doubanio.com//view//celebrity//s_ratio_celebrity//public//p33715.webp",
+                "infor":"2018/剧情/爱情/战争/章子怡/黄晓明/王力宏、中国大陆",
+                "jianjie":"如果提前了解你所要面对的人生 你是否还会有勇气前来？五菱波 张嘉佳这几个年亲人满怀诸多渴望，在四个非凡响的空中一路前行。自愿参加人民解放军"
+               
+            },
+            {
+                "id":1,
+                "movieName": "泰坦尼克号",
+                "num": 2.8,
+                "img": "http://img7.doubanio.com//view//photo//s_ratio_poster//public//p457760035.webp",
+                "infor":"2013/剧情/爱情/凯特·温斯莱特/莱昂纳多·迪卡普里奥/美国",
+                "jianjie":"《泰坦尼克号》是美国二十世纪福斯电影公司、派拉蒙影业公司出品爱情片，由詹姆斯·卡梅隆执导，莱昂纳多·迪卡普里奥、凯特·温斯莱特领衔主演。影片以1912年泰坦尼克号邮轮在其处女启航时触礁冰山而沉没的事件为背景，讲述了处于不同阶层的两个人穷画家杰克和贵族女露丝抛弃世俗的偏见坠入爱河"
+            },
+            {
+                "id":2,
+                "movieName": "一路向西",
+                "num": 4.2,
+                "img": "http://img7.doubanio.com//view//celebrity//s_ratio_celebrity//public//p1463193210.13.webp",
+                "infor":"2008/爱情/剧情/张建声/王宗尧/胡耀辉领衔主演/莫绮雯/中国香港",
+                "jianjie":"《一路向西》是由中国3D数码娱乐有限公司于2012年9月20日出品的一部三级片，该片改编自网络小说《东莞的森林》。由胡耀辉执导，张建声、王宗尧、胡耀辉领衔主演，莫绮雯、希崎杰西卡、张暖雅、郭颖儿、何佩瑜、李沐晴、王李丹妮主演。"
+            },
+            {
+                "id":3,
+                "movieName": "王大锤",
+                "num": 4.5,
+                "img": "http://img7.doubanio.com//view//celebrity//s_ratio_celebrity//public//p33715.webp",
+                "infor":"2015/大鹏/柳岩/文章/白百合/任重/约翰尼·盖尔克/中国大陆",
+                "jianjie":"《屌丝男士》不是传统意义上的情景喜剧，有固定时长和单一场景，以及简单的生活细节。而是一部具有鲜明网络特点，舞台感十足，整体没有剧情衔接，固定的演员演绎着并不固定角色的笑话集。"
+            },
+           
+            {
+                "id":4,
+                "movieName": "风暴",
+                "num": 5.0,
+                "img": "http://img7.doubanio.com//view//celebrity//s_ratio_celebrity//public//p36573.webp",
+                "infor":"2018/刘德华/林家栋/姚晨/胡军、尹子维、吕良伟主演/香港",
+                "jianjie":"《风暴》是由袁锦麟执导，江志强、刘德华出品及监制，刘德华、林家栋、姚晨、胡军、尹子维、吕良伟主演的动作枪战电影。该片主要讲述了香港屡破大案的高级督察吕sir与刚出狱的街头混混陶成邦等人的斗争故事。"
+            },
+            {
+                "id":5,
+                "movieName": "爱勤公寓",
+                "num": 1.0,
+                "img": " http://img7.doubanio.com//view//celebrity//s_ratio_celebrity//public//p33715.webp",
+                "infor":"2008/娄艺潇/孙艺洲/李金铭/邓家佳/王传君/金世佳",
+                "jianjie":"该剧讲述了住在爱情公寓里的10个各不相同的人之间发生的平常却又乐趣十足的故事,该剧讲述了住在爱情公寓里的10个各不相同的人之间发生的平常却又乐趣十足的故事"
+               
+            },
+      
+      
+            {
+                "id":6,
+                "movieName": "这个杀手有点冷",
+                "num": 3.5,
+                "img": "http://img7.doubanio.com//view//celebrity//s_ratio_celebrity//public//p55902.webp",
+                "infor":"2005/让·雷诺，加里·奥德曼，娜塔莉·波特曼/美国 ",
+                "jianjie":"《这个杀手不太冷》是由吕克·贝松编剧并执导，让·雷诺、加里·奥德曼、娜塔丽·波特曼主演的动作片，该片于1994年9月14日在法国上映。该片讲述了一名职业杀手莱昂无意间搭救了一个全家被杀害的小女孩玛蒂尔达"
+            },
+            {
+                "id":7,
+                "movieName": "蜘蛛侠",
+                "num": 2.1,
+                "img": "http://img7.doubanio.com//view//celebrity//s_ratio_celebrity//public//p35783.webp",
+                "infor":"2002/汤姆·赫兰德、迈克尔·基顿、小罗伯特·唐尼、玛丽莎·托梅",
+                "jianjie":"《蜘蛛侠：英雄归来》（Spider-Man:Homecoming）是2017年漫威影业与哥伦比亚影业联合出品，索尼电影娱乐公司发行的一部科幻动作电影，由乔恩·沃茨执导，汤姆·赫兰德、迈克尔·基顿、小罗伯特·唐尼、玛丽莎·托梅、雅各·巴塔伦、乔恩·费儒、劳拉·海瑞尔、赞达亚·科尔曼等主演。该片取材自漫威漫画"
+            },
+            {
+                "id":8,
+                "movieName": "西部牛仔",
+                "num": 4.1,
+                "img": "http://img7.doubanio.com//view//photo//s_ratio_poster//public//p1596085504.webp",
+                "infor":"2002/汤姆·赫兰德、迈克尔·基顿、小罗伯特·唐尼、玛丽莎·托梅",
+                "jianjie":"美国西部牛仔，与美国的牛密不可分，美国人是欧洲移民的后裔，美国的牛则是欧洲的后代。美国的牛最早是由哥伦布带去的。当时，他把西班牙牛带到西印度群岛和中、南美洲沿海一带。"
+            },
+            {
+                "id":9,
+                "movieName": "浪漫女孩",
+                "num": 1.5,
+                "img": "http://img7.doubanio.com//view//celebrity//s_ratio_celebrity//public//p35783.webp",
+                "infor":"田海蓉、霍亚明、田海嫣、许烨、马丽主演",
+                "jianjie":"《浪漫女孩》是根据李宽定小说改编，由韩志君编剧并执导的电影，由田海蓉、霍亚明、田海嫣、许烨、马丽主演。影片讲述了改革开放之后，一个农村女孩为改变自己的命运所做的种种努力，最终梦想破灭了的故事。"
+            },
+            {
+                "id":10,
+                "movieName": "特工绍特",
+                "num": 3.5,
+                "img": "http://img7.doubanio.com//view//photo//s_ratio_poster//public//p1596085504.webp",
+                "infor":"特务间谍 / 叛谍狂花 / 据理追击 / 埃德文·绍特 / 疾走特",
+                "jianjie":"《特工绍特》是菲利浦·诺伊斯执导，安吉丽娜·朱莉等主演的动作片。讲述了CIA长官Evelyn Salt被指认是俄罗斯间谍。她不但要保护自己的家人，还要想尽办法证明自己的清白的故事"
+            },
+            {
+                "id":11,
+                "movieName": "爱情的边疆",
+                "num": 5.0,
+                "img": "http://img7.doubanio.com//view//photo//s_ratio_poster//public//p1784592701.webp",
+                "infor":"2008/毛卫宁/王力宏/姚晨",
+                "jianjie":"《爱情的边疆》是由毛卫宁执导，殷桃、王雷、李乃文领衔主演的年代情感剧 [1-2] 该剧讲述了女大学生文艺秋与同学万声、同事宋绍山、播音员维卡之间的曲折爱情故事"
+            },
+           
+      
+            {
+                "id":15,
+                "movieName": "阿甘正传",
+                "num": 3.6,
+                "img": "http://img7.doubanio.com//view//celebrity//s_ratio_celebrity//public//p1365572666.45.webp",
+                "infor":" 汤姆·汉克斯，罗宾·莱特·潘，加里·西尼斯 [4] ",
+                "jianjie":"《阿甘正传》是由罗伯特·泽米吉斯执导的电影，由汤姆·汉克斯、罗宾·怀特等人主演，于1994年7月6日在美国上映。电影改编自美国作家温斯顿·格卢姆于1986年出版的同名小说，描绘了先天智障的小镇男孩福瑞斯特·甘自强不息，"
+            },  
+            {
+                "id":11,
+                "movieName": "疯狂小镇",
+                "num": 3.5,
+                "img": "http://img7.doubanio.com//view//celebrity//s_ratio_celebrity//public//p35783.webp",
+                "infor":"2015/乔治·查理兹·塞隆和尼古拉斯·霍尔特等联袂主演",
+                "jianjie":"《疯狂的麦克斯：狂暴之路》是华纳兄弟电影公司于2015年出品的一部动作电影，该片由乔治·米勒执导，汤姆·哈迪、查理兹·塞隆和尼古拉斯·霍尔特等联袂主演。"
+            },
+            {
+                "id":12,
+                "movieName": "疯狂的石头",
+                "num": 3.5,
+                "img": "http://img7.doubanio.com//view//photo//s_ratio_poster//public//p1784592701.webp",
+                "infor":"2008/郭涛、刘桦、黄渤、连晋和徐峥等出演",
+                "jianjie":"《疯狂的石头》是宁浩导演的黑色喜剧片，由郭涛、刘桦、黄渤、连晋和徐峥等出演，于2006年6月30日在中国大陆上映。该片讲述了重庆某濒临倒闭的工艺品厂在推翻旧厂房时发现了一块价值连城的翡翠"
+            },
+            {
+                "id":13,
+                "movieName": "疯狂的赛车",
+                "num": 5.0,
+                "img": "http://img7.doubanio.com//view//celebrity//s_ratio_celebrity//public//p35783.webp",
+                "infor":"2009/演员有黄渤、九孔、戎祥等",
+                "jianjie":"《疯狂的赛车》是2009年上映的一部影片，本片是导演宁浩继2006年《疯狂的石头》后执导的第二部多线索式喜剧电影。"
+            },
+            {
+                "id":14,
+            
+                "movieName": "疯狂的外星人",
+                "num": 4.5,
+                "img": "http://img7.doubanio.com//view//photo//s_ratio_poster//public//p1784592701.webp",
+                "infor":"刘慈欣、孙小杭、吴楠、董润年、刘晓丹、潘依然",
+                "jianjie":"《疯狂的外星人》是2015年备案的现代科幻影片，由宁浩执导，刘慈欣、孙小杭编。2019年4月28日，荣获第二十六届北京大学生电影节最受欢迎影片 [1] "
+            }
+        ]
+    
+}
